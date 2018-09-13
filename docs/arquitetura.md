@@ -15,3 +15,5 @@ casas inicialmente vazias.
 
 * A função jogar(jogador, linha, coluna) irá posicionar o **jogador** ('X' ou
 'O') na posição definida por **linha** e **coluna**.
+
+* Deverá ser incluída uma nova função que será responsável por validar a jogada e será usada dentro da função jogar.
