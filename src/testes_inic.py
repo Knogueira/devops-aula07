@@ -2,7 +2,7 @@ import jogovelha
 import sys
 
 erroInicializar = False
-
+# Evolução dos casos de testes
 jogovelha.inicializar()
 jogo = jogovelha.tabuleiro()
 if len(jogo) != 3:
